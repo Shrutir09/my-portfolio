@@ -48,7 +48,7 @@ const Projects = () => {
       title: "Portfolio Website",
       desc: "A dynamic, responsive personal portfolio built with React.",
       img: "/assets/hero.png",
-      link: "https://github.com/Shrutir09/portfolio"
+      link: "https://my-portfolio-two-delta-70.vercel.app/"
     }
   ];
 
