@@ -1,16 +1,73 @@
-# React + Vite
+# Shruti Riya - Personal Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code of my personal portfolio website! This is a modern, highly aesthetic, and dynamic single-page web application designed to showcase my projects, skills, certifications, and experience.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Sleek Dark Bluish Theme**: A premium UI utilizing dark mode concepts, cyan neon accents, and smooth gradient overlays.
+- **Glassmorphism & Micro-animations**: Modern design techniques for an engaging, dynamic user experience.
+- **Fully Responsive**: Carefully crafted to look perfect on desktops, tablets, and mobile devices without any horizontal scrolling issues.
+- **Dynamic Projects Showcase**: CSS Grid layout integrating AI-generated mockups for a professional aesthetic.
+- **Resume Integration**: A seamless, fully functional local PDF download feature.
+- **Sticky Navigation**: A glassmorphic top navigation bar with smooth scroll anchors.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework**: [React.js](https://reactjs.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/) (For ultra-fast compilation and hot-module replacement)
+- **Styling**: Vanilla CSS (Using extensive CSS Variables for theme consistency, rather than heavy CSS frameworks)
+- **Icons**: `react-icons`
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+📦 portfolio
+ ┣ 📂 public
+ ┃ ┗ 📂 assets (All images, AI mockups, and PDFs)
+ ┣ 📂 src
+ ┃ ┣ 📂 components
+ ┃ ┃ ┣ 📜 About.jsx / About.css
+ ┃ ┃ ┣ 📜 Certifications.jsx / Certifications.css
+ ┃ ┃ ┣ 📜 Contact.jsx / Contact.css
+ ┃ ┃ ┣ 📜 Hero.jsx / Hero.css
+ ┃ ┃ ┣ 📜 Navbar.jsx / Navbar.css
+ ┃ ┃ ┗ 📜 Projects.jsx / Projects.css
+ ┃ ┣ 📜 App.jsx
+ ┃ ┣ 📜 index.css (Global variables and utility classes)
+ ┃ ┗ 📜 main.jsx
+ ┣ 📜 index.html
+ ┣ 📜 package.json
+ ┗ 📜 vite.config.js
+```
+
+## 🚀 Getting Started Locally
+
+If you'd like to clone this repository and run it locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Shrutir09/my-portfolio.git
+   cd my-portfolio
+   ```
+
+2. **Install the dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **View in browser:**
+   Open your browser and navigate to `http://localhost:5173`.
+
+## 🌐 Live Deployment
+
+The application is fully optimized and deployed using Vercel. 
+*(Link to be inserted based on current active deployment)*
+
+## 📄 License
+
+This project is personal and all rights are reserved by Shruti Riya. Feel free to draw inspiration from the design!
