@@ -65,8 +65,8 @@ If you'd like to clone this repository and run it locally, follow these steps:
 
 ## 🌐 Live Deployment
 
-The application is fully optimized and deployed using Vercel. 
-*(Link to be inserted based on current active deployment)*
+The application is fully optimized and deployed using Vercel. You can view the live project here:
+**[Shruti Riya Portfolio](https://my-portfolio-two-delta-70.vercel.app/)**
 
 ## 📄 License
 
