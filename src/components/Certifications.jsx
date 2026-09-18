@@ -14,6 +14,11 @@ const Certifications = () => {
       icon: <FaCertificate />
     },
     {
+      title: "Internship Completion Certificate: Frontend Development",
+      org: "Skillfied Mentor",
+      icon: <FaCertificate />
+    },
+    {
       title: "Winter of Code Social Contributor (2025)",
       org: "Winter of Code",
       icon: <FaMedal />
@@ -24,7 +29,7 @@ const Certifications = () => {
       icon: <FaCode />
     },
     {
-      title: "Full Stack Development Training (Ongoing)",
+      title: "Full Stack Development Training ",
       org: "Training Institute",
       icon: <FaLaptopCode />
     },
