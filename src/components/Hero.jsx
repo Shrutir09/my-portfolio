@@ -28,7 +28,7 @@ const Hero = () => {
             </h2>
             <div className="hero-cta">
               <a href="#projects" className="btn btn-primary">View My Work</a>
-              <a href="public\assets\Resume-ShrutiRiya.pdf" download="ShrutiRiya_Resume.pdf" className="btn btn-outline">Download Resume</a>
+              <a href="public\assets\Resume-ShrutiRiya.pdf" download="Resume-ShrutiRiya.pdf" className="btn btn-outline">Download Resume</a>
             </div>
           </div>
           <div className="hero-image-wrapper">
