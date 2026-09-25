@@ -24,7 +24,7 @@ const Hero = () => {
               {text}<span className="cursor">|</span>
             </h1>
             <h2 className="hero-subtitle">
-              Computer Science Engineering Student | Full Stack Developer| Google Campus Ambassador 2026 | UI/UX and AI Enthusiast
+              Computer Science Engineering Student | Frontend Developer| Google Campus Ambassador 2026 | UI/UX and AI Enthusiast
             </h2>
             <div className="hero-cta">
               <a href="#projects" className="btn btn-primary">View My Work</a>

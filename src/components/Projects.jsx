@@ -3,22 +3,10 @@ import './Projects.css';
 const Projects = () => {
   const projectList = [
     {
-      title: "PhotoVerse",
-      desc: "Interactive web platform for photosynthesis and environment simulation.",
-      img: "/assets/photoverse_mockup_1778780773566.png",
-      link: "https://photoverse-delta.vercel.app"
-    },
-    {
-      title: "College Website",
-      desc: "Responsive college website showcasing departments and student info.",
-      img: "/assets/college_website_mockup_1778780018685.png",
-      link: "https://github.com/Shrutir09/College-Website"
-    },
-    {
-      title: "Quick Bite",
-      desc: "Food ordering interface for the college canteen to skip the queue.",
-      img: "/assets/quick_bite_mockup_1778780046111.png",
-      link: "https://quick-bite-topaz.vercel.app/"
+      title: "FoodPulse AI",
+      desc: "Machine learning-based application that predicts food delivery time using factors such as delivery distance, traffic, weather, order details, and delivery conditions.",
+      img: "/assets/food-pulse.png",
+      link: "https://github.com/Shrutir09/Food-Delivery-Time-Prediction"
     },
     {
       title: "CareConnect",
@@ -27,29 +15,38 @@ const Projects = () => {
       link: "https://care-connect-rho-eight.vercel.app/"
     },
     {
+      title: "Airbnb Homepage Clone",
+      desc: "React-based frontend project recreating the Airbnb homepage with responsive UI and interactive components.",
+      img: "/assets/airbnb.png",
+      link: "https://shrutir09.github.io/Airbnb-clone/"
+    },
+    {
       title: "GrievanceIQ",
       desc: "Grievance management interface to streamline complaint submission.",
       img: "/assets/grievanceiq_mockup_1778780084200.png",
       link: "https://grievanceiq.vercel.app/"
     },
+   
     {
-      title: "ToolifyAI",
-      desc: "AI tools showcase platform with organized tool listings.",
-      img: "/assets/toolifyai_mockup_1778780101927.png",
-      link: "https://github.com/Shrutir09/ToolifyAI"
+      title: "Portfolio Website",
+      desc: "A dynamic, responsive personal portfolio built with React.",
+      img: "/assets/hero.png",
+      link: "https://my-portfolio-two-delta-70.vercel.app/"
     },
+     
+    {
+      title: "Quick Bite",
+      desc: "Food ordering interface for the college canteen to skip the queue.",
+      img: "/assets/quick_bite_mockup_1778780046111.png",
+      link: "https://quick-bite-topaz.vercel.app/"
+    },
+    
     {
       title: "Anon Alert",
       desc: "Platform concept for anonymous reporting and alert management.",
       img: "/assets/anonalert_mockup_1778780124204.png",
       link: "https://anon-alert.vercel.app/"
     },
-    {
-      title: "Portfolio Website",
-      desc: "A dynamic, responsive personal portfolio built with React.",
-      img: "/assets/hero.png",
-      link: "https://my-portfolio-two-delta-70.vercel.app/"
-    }
   ];
 
   return (
