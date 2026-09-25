@@ -3,7 +3,7 @@ import './About.css';
 const About = () => {
   const skills = [
     "React", "Tailwind CSS", "Java", "C++", "SQL",
-    "DBMS", "Git/GitHub", "PHP", "Bootstrap", "UI Design",
+    "DBMS", "Git/GitHub", "PHP", "UI Design",
     "HTML", "JavaScript", "Python(Basic)", "DSA"
   ];
 

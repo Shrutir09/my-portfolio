@@ -13,18 +13,9 @@ const Certifications = () => {
       org: "NPTEL",
       icon: <FaCertificate />
     },
+   
     {
-      title: "Internship Completion Certificate: Frontend Development",
-      org: "Skillfied Mentor",
-      icon: <FaCertificate />
-    },
-    {
-      title: "Winter of Code Social Contributor (2025)",
-      org: "Winter of Code",
-      icon: <FaMedal />
-    },
-    {
-      title: "Hackathons & Claude AI / Vibe Coding Workshops",
+      title: "Hackathons & Vibe Coding Workshops",
       org: "Various",
       icon: <FaCode />
     },
@@ -34,9 +25,14 @@ const Certifications = () => {
       icon: <FaLaptopCode />
     },
     {
-      title: "Git/GitHub & Responsive Web Design Hands-on Practice",
-      org: "Self-Paced",
-      icon: <FaTrophy />
+      title: " 2nd Best Presenter Award In AI Tech Talk",
+      org: "College",
+      icon: <FaAward />
+    },
+    {
+      title: "1st Place in SQL Code Master Challenge",
+      org: "College",
+      icon: <FaCertificate />
     }
   ];
 
